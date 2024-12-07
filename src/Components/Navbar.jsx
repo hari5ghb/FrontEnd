@@ -4,7 +4,7 @@ const Navbar = () => {
 
     return (
         <>
-            <div className="bg-white w-full flex align-middle font-roboto justify-center border border-gray-300 shadow-md p-7">
+            <div className="bg-white  w-full flex align-middle font-roboto justify-center border border-gray-300 shadow-md p-7">
                 <div>
                     <h3 className="text-3xl font-bold font-roboto">DIGI-<span className="text-blue-600">FYNIX</span></h3>
                 </div>
