@@ -6,10 +6,10 @@ const Navbar = () => {
         <>
             <div className="bg-white  w-full flex align-middle font-roboto justify-center border border-gray-300 shadow-md p-7">
                 <div>
-                    <h3 className="text-2xl md: text-3xl font-bold font-roboto">DIGITAL-<span className="text-blue-600">FYNIX</span></h3>
+                    <h3 className="text-2xl md: text-3xl font-bold font-roboto">DIGI-<span className="text-blue-600">FYNIX</span></h3>
                 </div>
                 <div className="ml-96 my-auto">
-                    <ul className="flex font-thin text-red-500 hover:cursor-pointer ">
+                    <ul className="flex font-thin text-slate-500 hover:cursor-pointer ">
                         <li className="mx-5 hover:text-black transition duration-300 ease-in-out transform hover:scale-110 ">Our Services</li>
                         <li className="mx-5 hover:text-black transition duration-300 ease-in-out transform hover:scale-110  ">Vist Our Blog</li>
                         <li className="mx-5 hover:text-black transition duration-300 ease-in-out transform hover:scale-110  ">About Us</li>
